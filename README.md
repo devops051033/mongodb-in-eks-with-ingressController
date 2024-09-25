@@ -1,0 +1,1 @@
+# mongodb-in-eks-with-ingressController

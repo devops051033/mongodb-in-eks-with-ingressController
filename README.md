@@ -1,8 +1,10 @@
 # mongodb-in-eks-with-ingressController
-you can create mongodb deployment in eks using nginx ingress controller . have fun !!!
+you can create 👷  mongodb deployment in eks using nginx ingress controller . have fun 👊🏼 !!!
 
 step 1: First create the secret for both the mongo and express deployment 
+
 step 2: create configmap which will hold the value of the mongo url which would be mongodb service name.
+
 step 3: now install the ingress controller using helm  
 
 use helm chart to install ingress controller use the following command  

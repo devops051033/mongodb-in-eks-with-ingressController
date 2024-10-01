@@ -7,7 +7,7 @@ metadata:
   annotations:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
-  ingressClassName: nginx
+  ingressClassName: nginx              # we used ingressClassnName so that any ingress rosources created can be discover by nginx
   rules:
   - host: mongo.cloudarkitect.com
     http:

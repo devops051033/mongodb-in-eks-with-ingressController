@@ -22,3 +22,7 @@ step 6: You can find the ingress using "kubectl get ingress -n yournamespace" an
 
 
 get to work . have fun 🥳 
+
+
+
+Note: create internal services for mongoexpress and ingress component in the same namaspaces . 
